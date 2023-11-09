@@ -1,0 +1,65 @@
+body {
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.polarbear-card {
+    width: 350px;
+    padding: 20px;
+    background-color: rgb(214, 232, 238);
+    border: 1px solid black;
+}
+
+.polarbear-infosection {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.polarbear-photo {
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin: 25px;
+    padding: 2px;
+    }
+
+.polarbear-name {
+    text-align: center;
+    margin-bottom: 10px;
+    border-bottom: 1px solid black;
+    padding: 5px;
+}
+
+.polarbear-fact {
+    text-align: center;
+    font-style: italic;
+}
+
+.polarbear-lists {
+    list-style-type: none;
+}
+
+.polarbear-lists li {
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-bottom: 1px;
+}
+
+.polarbear-overview {
+    margin-top: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+
+
